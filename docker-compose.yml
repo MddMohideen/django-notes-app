@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : mohammed07/my-note-app:latest
+     image : mohammed07/11ambatch
      ports :
          - "8000:8000"
