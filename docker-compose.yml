@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : mohammed07/11ambatch
+     image : mohammed07/today-apps
      ports :
          - "8000:8000"
